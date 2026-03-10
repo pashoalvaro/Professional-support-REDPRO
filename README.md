@@ -80,5 +80,5 @@ Soy un profesional de TI con experiencia en **soporte técnico**, **infraestruct
 
 - **Nombre:** Álvaro Pascual  
 - **Email:** pascual_alvaro96@outlook.com  
-- **GitHub:** https://github.com/ZonaTech
+- **GitHub:** https://github.com/Professional-support-REDPRO
 ``
